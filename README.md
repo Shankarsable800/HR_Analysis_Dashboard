@@ -86,6 +86,3 @@ The dataset includes:
 1. Clone the repository  
    ```bash
    git clone https://github.com/your-username/hr-analytics-dashboard.git
-1. Clone the repository  
-   ```bash
-   git clone https://github.com/your-username/hr-analytics-das
